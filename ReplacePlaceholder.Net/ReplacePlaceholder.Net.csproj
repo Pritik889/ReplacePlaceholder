@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>ReplacePlaceholder.Net</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Priti Kumari</Authors>
+    <Company>dataoftech.com</Company>
+    <Owner>Priti Kumari</Owner>
+    <Copyright>Copyright 2021 © Data of Tech</Copyright>
+    <Tags>dotnetcore Csharp</Tags>
+    <Description>Replace Placeholder from any template string JSON or HTML</Description>
+  </PropertyGroup>
+
+</Project>

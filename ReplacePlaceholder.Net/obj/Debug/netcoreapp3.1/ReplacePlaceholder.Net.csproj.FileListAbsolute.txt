@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\bin\Debug\netcoreapp3.1\ReplacePlaceholder.Net.deps.json
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\bin\Debug\netcoreapp3.1\ReplacePlaceholder.Net.dll
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\bin\Debug\netcoreapp3.1\ReplacePlaceholder.Net.pdb
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\obj\Debug\netcoreapp3.1\ReplacePlaceholder.Net.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\obj\Debug\netcoreapp3.1\ReplacePlaceholder.Net.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\obj\Debug\netcoreapp3.1\ReplacePlaceholder.Net.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\obj\Debug\netcoreapp3.1\ReplacePlaceholder.Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\obj\Debug\netcoreapp3.1\ReplacePlaceholder.Net.dll
+C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\obj\Debug\netcoreapp3.1\ReplacePlaceholder.Net.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ReplacePlaceholder.Net</id>
+    <version>1.0.0</version>
+    <authors>Priti Kumari</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Replace Placeholder from any template string JSON or HTML</description>
+    <copyright>Copyright 2021 © Data of Tech</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\source\repos\ReplacePlaceholder.Net\ReplacePlaceholder.Net\bin\Debug\netcoreapp3.1\ReplacePlaceholder.Net.dll" target="lib\netcoreapp3.1\ReplacePlaceholder.Net.dll" />
+  </files>
+</package>
